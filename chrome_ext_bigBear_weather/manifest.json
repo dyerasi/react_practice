@@ -1,0 +1,11 @@
+{
+    "name": "Weekly Big Bear Weather",
+    "version": "1.0.0",
+    "description": "This is an extension to see if the snow will be good at Big Bear, CA",
+    "manifest_version": 3,
+    "author": "Devin Y",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Upcoming Big Bear Conditions"
+    }
+}

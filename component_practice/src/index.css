@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button > svg { /* all buttons with an immediate child of an svg(icon or img). Apply to svg*/
+    margin-right: 5px;
+}
