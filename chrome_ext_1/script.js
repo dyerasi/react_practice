@@ -2,7 +2,7 @@ async function getConcerts() {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "7151defa0cmsh3e9a8ebec89a299p19542ajsn47a48351b578",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "concerts-artists-events-tracker.p.rapidapi.com",
     },
   };
