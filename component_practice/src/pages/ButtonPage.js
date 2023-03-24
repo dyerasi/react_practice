@@ -3,12 +3,12 @@ import { GoBell, GoCloudDownload, GoAlert } from "react-icons/go";
 
 function ButtonPage() {
   const onClick = () => {
-    console.log("hello");
+    //console.log("hello");
   };
   return (
     <div className="App">
       <div>
-        <Button primary className="mb-5" onClick={onClick}>
+        <Button primary className="mb-1" onClick={onClick}>
           <GoBell />
           Click Me
         </Button>
