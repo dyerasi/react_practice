@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Devin"
+    },
+    {
+      "name": "Damon Hammes",
+      "id": 3
+    },
+    {
+      "name": "Craig Reichel",
+      "id": 4
+    },
+    {
+      "name": "Rolando Halvorson Sr.",
+      "id": 6
+    },
+    {
+      "name": "Miss Nina Beer",
+      "id": 7
+    },
+    {
+      "name": "Deborah Daugherty",
+      "id": 8
+    },
+    {
+      "name": "Franklin Hahn",
+      "id": 14
+    },
+    {
+      "name": "Woodrow Ryan",
+      "id": 15
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
