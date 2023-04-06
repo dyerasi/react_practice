@@ -3,6 +3,9 @@ import { fetchUsers } from "../thunks/fetchUsers";
 import { addUser } from "../thunks/addUser";
 import { removeUser } from "../thunks/removeUser";
 
+//middleware api call -> finish -> dispatch(action) -> call appropriate reducer -> update state -> propgate state updates
+//         |
+//         ---> use thunk middleware call to chain loading/error local state changes(non-redux store)
 const usersSlice = createSlice({
   name: "users",
   initialState: {

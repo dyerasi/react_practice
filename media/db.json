@@ -33,6 +33,123 @@
       "id": 15
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Ergonomic Fresh Shirt",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Practical Soft Chips",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Concrete Shirt",
+      "id": 13
+    },
+    {
+      "userId": 3,
+      "title": "Modern Cotton Car",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Refined Frozen Towels",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Wooden Sausages",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Wooden Tuna",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Plastic Chicken",
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "title": "Tasty Bronze Hat",
+      "id": 21
+    },
+    {
+      "userId": 7,
+      "title": "Generic Wooden Fish",
+      "id": 22
+    },
+    {
+      "userId": 4,
+      "title": "Elegant Rubber Shirt",
+      "id": 23
+    },
+    {
+      "userId": 4,
+      "title": "Rustic Cotton Pizza",
+      "id": 24
+    },
+    {
+      "userId": 3,
+      "title": "Sleek Wooden Towels",
+      "id": 25
+    },
+    {
+      "userId": 6,
+      "title": "Fantastic Fresh Hat",
+      "id": 26
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11814",
+      "id": 2
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=38065",
+      "id": 4
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20021",
+      "id": 7
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66312",
+      "id": 8
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64941",
+      "id": 9
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49920",
+      "id": 12
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22147",
+      "id": 13
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2899",
+      "id": 14
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49085",
+      "id": 15
+    }
+  ]
 }
